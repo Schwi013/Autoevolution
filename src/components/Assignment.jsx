@@ -8,7 +8,7 @@ const processData = [
 ]
 
 const awardedData = [
-  { code: 'F0300', name: 'LUIS ROBERTO SUÁREZ A' },
+  { code: 'F0300', name: 'EULALIO CHAGA C' },
   { code: 'F0299', name: 'JAVIER CRUZ C' },
   { code: 'F0297', name: 'FRANCISCO ADAHYR ROMERO S' },
   { code: 'F0296', name: 'JOSÉ LUIS VÁSQUEZ G' },
