@@ -1,10 +1,10 @@
 const processData = [
-  { code: 'F0315', name: 'ANGEL MIGUEL CASTILLA SANCHEZ' },
+  { code: 'F0313', name: 'ALEJANDRA LEAL G' },
   { code: 'F0312', name: 'NEHEMIAS GOMEZ G' },
   { code: 'F0311', name: 'ESTEBAN URIEL GORDILLO C' },
   { code: 'F0306', name: 'FELIPE HERNÁNDEZ' },
   { code: 'F0301', name: 'DIEGO AGUILAR J' },
-  { code: 'F0287', name: 'MARIANA DE JESÚS PÉREZ N' },
+  { code: 'F0319', name: 'URI DE JESÚS GOMEZ S' },
 ]
 
 const awardedData = [
