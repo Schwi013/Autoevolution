@@ -1,19 +1,16 @@
 const processData = [
-  { code: 'F0313', name: 'ALEJANDRA LEAL G' },
-  { code: 'F0312', name: 'NEHEMIAS GOMEZ G' },
-  { code: 'F0311', name: 'ESTEBAN URIEL GORDILLO C' },
-  { code: 'F0306', name: 'FELIPE HERNÁNDEZ' },
-  { code: 'F0301', name: 'DIEGO AGUILAR J' },
+  { code: 'F0322', name: 'LESLI JASSIR AMADOR R' },
   { code: 'F0319', name: 'URI DE JESÚS GOMEZ S' },
+  { code: 'F0314', name: ' VIRIDIANA VELEZ RIVERA'},
+  { code: 'F0313', name: 'ALEJANDRA LEAL G' },
+  { code: 'F0310', name: 'LEONARDO ALFREDO MAR Y' }
 ]
 
 const awardedData = [
   { code: 'F0303', name: 'EULALIO CHAGA C' },
-  { code: 'F0299', name: 'JAVIER CRUZ C' },
-  { code: 'F0297', name: 'FRANCISCO ADAHYR ROMERO S' },
-  { code: 'F0296', name: 'JOSÉ LUIS VÁSQUEZ G' },
-  { code: 'F0290', name: 'JAIR ARMANDO BRAVO O' },
-  { code: 'F0289', name: 'RAMÓN DÍAZ R' },
+  { code: 'F0312', name: 'NEHEMIAS GOMEZ G' },
+  { code: 'F0301', name: 'DIEGO AGUILAR J' },
+  { code: 'F0325', name: 'MIZZIO EDOARDO BLANCO P' }
 ]
 
 export default function Assignment() {
@@ -37,7 +34,7 @@ export default function Assignment() {
             </div>
           </div>
           <div className="board">
-            <div className="board-header">ADJUDICADOS DE MAYO</div>
+            <div className="board-header">ADJUDICADOS DE JUNIO</div>
             <div className="board-body">
               {awardedData.map((row) => (
                 <div key={row.code} className="board-row">
