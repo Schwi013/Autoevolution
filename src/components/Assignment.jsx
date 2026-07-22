@@ -37,7 +37,7 @@ export default function Assignment() {
             </div>
           </div>
           <div className="board">
-            <div className="board-header">ADJUDICADOS DE JUNIO</div>
+            <div className="board-header">ADJUDICADOS DE JULIO</div>
             <div className="board-body">
               {awardedData.map((row) => (
                 <div key={row.code} className="board-row">
