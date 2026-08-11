@@ -1,11 +1,19 @@
 const processData = [
-  { code: 'F0306', name: 'FELIPE P HERNANDEZ' },
-  { code: 'F0310', name: 'LEONARDO A. MAR YAÑEZ' },
-  { code: 'F0313', name: 'ALEJANDRA LEAL G.' },
-  { code: 'F0327', name: 'EMANUEL OMAR AGUILAR V.' },
-  { code: 'F0329', name: 'PEDRO MARTIN C.' },
-  { code: 'F0332', name: 'MIGUEL REYES A.' },
-  { code: 'F0335', name: 'JULIANA HERNANDEZ U.' }
+    { code: 'F0306', name: 'FELIPE P HERNANDEZ' },
+      { code: 'F0310', name: 'LEONARDO A. MAR YAÑEZ' },
+        { code: 'F0313', name: 'ALEJANDRA LEAL G.' },
+          { code: 'F0327', name: 'EMANUEL OMAR AGUILAR V.' },
+            { code: 'F0329', name: 'PEDRO MARTIN C.' },
+              { code: 'F0332', name: 'MIGUEL REYES A.' },
+                { code: 'F0333', name: 'ALEJANDRO ALBERTO S.' }
+                  { code: 'F0335', name: 'JULIANA HERNANDEZ U.' }
+                    { code: 'F0338', name: 'GUILLERMO LOPEZ R.' }
+                      { code: 'F0339', name: 'JOSE FELIX S.' }
+                        { code: 'F0340', name: 'DAVID NIEVES G.' }
+                          { code: 'F0341', name: 'SANDRA GUADALUPE C.' }
+                            { code: 'F0342', name: 'JOSE RODOLFO R.' }
+                              
+                              ]
 ]
 
 const awardedData = [
