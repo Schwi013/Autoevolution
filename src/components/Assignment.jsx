@@ -13,7 +13,7 @@ const processData = [
                           { code: 'F0341', name: 'SANDRA GUADALUPE C.' },
                             { code: 'F0342', name: 'JOSE RODOLFO R.' }
                               
-                              ]
+                              
 ]
 
 const awardedData = [
