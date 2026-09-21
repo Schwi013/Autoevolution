@@ -24,7 +24,7 @@ export default function Footer() {
           <div className="link-group">
             <h4>Preautorizaciones</h4>
             <form className="newsletter-form" onSubmit={(e) => e.preventDefault()}>
-              <label>Correo Electrónico: autoevolutionmotorsenter@gmail.com</label>
+              <label>Correo Electrónico: autoevolutionmotorsenter@gmail.com<br /></label>
               <label>Teléfono: 222 932 9450</label> 
             </form>
             <div className="social-links-footer">
