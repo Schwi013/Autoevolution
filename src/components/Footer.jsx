@@ -24,8 +24,8 @@ export default function Footer() {
           <div className="link-group">
             <h4>Contacto</h4>
             <form className="newsletter-form" onSubmit={(e) => e.preventDefault()}>
-              <label>Correo Electrónico: autoevolutionmotorsenter@gmail.com</label><br></br>
-              <label>Teléfono: 222 932 9450</label> 
+              <p>Correo Electrónico: autoevolutionmotorsenter@gmail.com</p>
+              <p>Teléfono: 222 932 9450</p>
             </form>
             <div className="social-links-footer">
               <a href="#"><i className="fab fa-instagram"></i></a>
