@@ -5,20 +5,18 @@ const processData = [
   { code: 'F0327', name: 'EMANUEL OMAR AGUILAR V.' },
   { code: 'F0333', name: 'ALEJANDRO ALBERTO S.' },
   { code: 'F0339', name: 'JOSE FELIX S.' },
-  { code: 'F0340', name: 'DAVID NIEVES G.' },
-  { code: 'F0344', name: 'GUSTAVO ROSAS C' },
-  { code: 'F0345', name: 'CARMEN DE JESUS M.' },
-  { code: 'F0346', name: 'JOSE MANUEL N.' }                          
+  { code: 'F0340', name: 'DAVID NIEVES G.' }             
 ]
 
 const awardedData = [
-  { code: 'F0303', name: 'EULALIO CHAGA C' },
-  { code: 'F0312', name: 'NEHEMIAS GOMEZ G' },
-  { code: 'F0301', name: 'DIEGO AGUILAR J' },
-  { code: 'F0328', name: 'JUSTO Z. BAEZ' },
-  { code: 'F0330', name: 'HECTOR MUÑOZ O.' },
-  { code: 'F0338', name: 'GUILLERMO LOPEZ R.' },
-  { code: 'F0342', name: 'JOSE RODOLFO R.' }
+  { code: 'F0277', name: 'ABERTO LÓPEZ T.'},
+  { code: 'F0282', name: 'MARIA DEL CARMEN I.' },
+  { code: 'F0286', name: 'ALEXIS TORRES P.'},
+  { code: 'F0288', name: 'JESUS ALBERTO R.' },
+  { code: 'F0290', name: 'LUIS ALVAREZ G.' },
+  { code: 'F0295', name: 'TERESA JUSTO A.' },
+  
+  { code: 'F0344', name: 'GUSTAVO ROSAS C' } 
 ]
 
 export default function Assignment() {
@@ -42,7 +40,7 @@ export default function Assignment() {
             </div>
           </div>
           <div className="board">
-            <div className="board-header">ADJUDICADOS DE AGOSTO</div>
+            <div className="board-header">ADJUDICADOS DE SEPTIEMBRE</div>
             <div className="board-body">
               {awardedData.map((row) => (
                 <div key={row.code} className="board-row">
