@@ -23,9 +23,9 @@ export default function Footer() {
           </div>
           <div className="link-group">
             <h4>Contacto</h4>
-            <form className="newsletter-form" onSubmit={(e) => e.preventDefault()}>
-              <label style={{ display: 'block' }}>Correo Electrónico: autoevolutionmotorsenter@gmail.com</label>
-              <label style={{ display: 'block' }}>Teléfono: 222 932 9450</label> 
+            <form className="newsletter-form" style={{ flexDirection: 'column', alignItems: 'flex-start' }} onSubmit={(e) => e.preventDefault()}>
+              <label style={{ display: 'block', marginBottom: '8px' }}>Correo Electrónico: autoevolutionmotorsenter@gmail.com</label>
+              <label style={{ display: 'block' }}>Teléfono: 222 932 9450</label>
             </form>
             <div className="social-links-footer">
               <a href="#"><i className="fab fa-instagram"></i></a>
