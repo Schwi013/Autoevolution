@@ -1,27 +1,26 @@
 const processData = [
   { code: 'F0306', name: 'FELIPE P. HERNANDEZ' },
   { code: 'F0310', name: 'LEONARDO A. MAR YAÑEZ' },
-  { code: 'F0313', name: 'ALEJANDRA LEAL G.' },
   { code: 'F0327', name: 'EMANUEL OMAR AGUILAR V.' },
   { code: 'F0333', name: 'ALEJANDRO ALBERTO S.' },
   { code: 'F0339', name: 'JOSE FELIX S.' },
   { code: 'F0340', name: 'DAVID NIEVES G.' },
-  
   { code: 'F0350', name: 'JOAQUIN P. DE LA ROSA' },
-  { code: 'F0351', name: 'NOE CERVANTES R.' },
   { code: 'F0352', name: 'IRAN ZUÑIGA O.' },
-  { code: 'F0353', name: 'OSCAR APRESA M.' }
+  { code: 'F0356', name: 'SCARLET HERNANDEZ R.' },
+  { code: 'F0357', name: 'ROMAN MARTINEZ R.' },
+  { code: 'F0358', name: 'VICTOR HUGO S..' },
+
 ]
 
 const awardedData = [
-  { code: 'F0277', name: 'ABERTO LÓPEZ T.'},
-  { code: 'F0282', name: 'MARIA DEL CARMEN I.' },
-  { code: 'F0286', name: 'ALEXIS TORRES P.'},
-  { code: 'F0288', name: 'JESUS ALBERTO R.' },
-  { code: 'F0290', name: 'LUIS ALVAREZ G.' },
-  { code: 'F0295', name: 'TERESA JUSTO A.' },
-  
-  { code: 'F0344', name: 'GUSTAVO ROSAS C' } 
+  { code: 'F0266', name: 'ANDREA MOJICA C.' },
+  { code: 'F0267', name: 'DIEGO CERVANTES C.' },
+  { code: 'F0268', name: 'LEOPOLDO CANO M.' },
+  { code: 'F0269', name: 'MARIA LUCERO C..' },
+  { code: 'F0270', name: 'JESUS GARCIA A.' },
+  { code: 'F0271', name: 'ISRAEL MORALES Z.' },
+  { code: 'F0272', name: 'ROBERTO ALVAREZ F.' }
 ]
 
 export default function Assignment() {
