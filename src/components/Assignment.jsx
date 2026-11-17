@@ -17,8 +17,8 @@ const awardedData = [
   { code: 'F0269', name: 'MARIA LUCERO C..' },
   { code: 'F0270', name: 'JESUS GARCIA A.' },
   { code: 'F0271', name: 'ISRAEL MORALES Z.' },
-  { code: 'F0272', name: 'ROBERTO ALVAREZ F.' }
-  { code: 'F0339', name: 'JOSE FELIX S.' },
+  { code: 'F0272', name: 'ROBERTO ALVAREZ F.' },
+  { code: 'F0339', name: 'JOSE FELIX S.' }
 ]
 
 export default function Assignment() {
