@@ -1,15 +1,12 @@
 const processData = [
-  { code: 'F0306', name: 'FELIPE P. HERNANDEZ' },
-  { code: 'F0310', name: 'LEONARDO A. MAR YAÑEZ' },
-  { code: 'F0327', name: 'EMANUEL OMAR AGUILAR V.' },
-  { code: 'F0333', name: 'ALEJANDRO ALBERTO S.' },
-  { code: 'F0339', name: 'JOSE FELIX S.' },
-  { code: 'F0340', name: 'DAVID NIEVES G.' },
-  { code: 'F0350', name: 'JOAQUIN P. DE LA ROSA' },
-  { code: 'F0352', name: 'IRAN ZUÑIGA O.' },
-  { code: 'F0356', name: 'SCARLET HERNANDEZ R.' },
-  { code: 'F0357', name: 'ROMAN MARTINEZ R.' },
-  { code: 'F0358', name: 'VICTOR HUGO S..' },
+  { code: 'F0358', name: 'VITOR H. SANCHEZ' },
+  { code: 'F0359', name: 'OSWALDO VAZQUEZ G.' },
+  { code: 'F0360', name: 'JORGE ALBERTO T.' },
+  { code: 'F0361', name: 'GULIANA GONZALEZ T.' },
+  { code: 'F0362', name: 'LEOPOLDO SANCHEZ M.' },
+  { code: 'F0363', name: 'CARLOS AGUSTIN X.' },
+  { code: 'F0365', name: 'REFUGIO MIXCOHUA S. ' },
+  { code: 'F0366', name: 'LUIS ANGEL T.' },
 
 ]
 
@@ -21,6 +18,7 @@ const awardedData = [
   { code: 'F0270', name: 'JESUS GARCIA A.' },
   { code: 'F0271', name: 'ISRAEL MORALES Z.' },
   { code: 'F0272', name: 'ROBERTO ALVAREZ F.' }
+  { code: 'F0339', name: 'JOSE FELIX S.' },
 ]
 
 export default function Assignment() {
