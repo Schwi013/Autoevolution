@@ -1,4 +1,4 @@
-import asesorImg from './assets/asesor.jpeg'
+import asesorImg from '../assets/asesor.jpeg'
 
 export default function Notices() {
   return (
