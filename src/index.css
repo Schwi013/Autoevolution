@@ -747,6 +747,28 @@ img {
     min-height: 0;
 }
 
+/* Notices Section */
+.notice-block {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.notice-image {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto 24px auto;
+    border-radius: 8px;
+    box-shadow: var(--shadow-md);
+}
+.notice-text {
+    color: var(--text-color);
+    font-size: clamp(1rem, 1.8vw, 1.125rem);
+    line-height: 1.6;
+    margin: 0;
+}
+
 /* Review / Assignment Section */
 .review-section {
     padding: 100px 0;
